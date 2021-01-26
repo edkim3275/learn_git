@@ -1,6 +1,8 @@
 # SSAFY 5기 2반
+- IM 취득!
 
 ## 할 수 있다!
+안녕하세요!
 
 ### can everythiing!
 
